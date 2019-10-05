@@ -18,7 +18,7 @@ The error message: `AttributeError: module 'asyncio' has no attribute 'create_ta
 $ sudo apt install python3.7 python3-venv python3.7-venv
 $ python3.7 -m venv py37-venv
 $ . py37-venv/bin/activate
-$ (py37-venv) $ pip install jupyter
+(py37-venv) $ pip install jupyter
 ```
 
 ## References
