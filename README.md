@@ -19,6 +19,7 @@ $ sudo apt install python3.7 python3-venv python3.7-venv
 $ python3.7 -m venv py37-venv
 $ . py37-venv/bin/activate
 (py37-venv) $ sudo pip install jupyter
+(py37-venv) $ jupyter-notebook 
 ```
 
 ## References
